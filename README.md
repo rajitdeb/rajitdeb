@@ -12,7 +12,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajit.deb/)
 
 ## 📊 Github Stats
-<img align="left" alt="Rajit Deb Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajitdeb&show_icons=true&hide_border=true" />
+<img align="left" alt="Rajit Deb Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajitdeb&count_private=true&show_icons=true&hide_border=true" />
 
 [1]: https://www.linkedin.com/in/imrajit/
 [2]: https://www.instagram.com/rajit.deb/
