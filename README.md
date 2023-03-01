@@ -1,7 +1,7 @@
 ### Hi there, I'm Rajit 👋
 
 ## I'm an Android Developer!
-- 🔭 I’m currently working on [<b>Ecommerce Android App</b>][3].
+- 🔭 I’m currently working on [<b>Amigos - a Social Media App</b>][3].
 - 🌱 I’m currently learning Jetpack Compose and little bit Flutter.
 - 💬 Ask me about Android and Flutter related stuff.
 - 🥅 2023 Goals - Contribute more to Open Source projects.
