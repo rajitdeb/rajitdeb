@@ -7,6 +7,9 @@
 - 🥅 2023 Goals - Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn about CyberSecurity, Content Creation, latest developments in Mobile Development world.
 
+## HactoberFest Badges
+[![An image of @rajitdeb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajitdeb)](https://holopin.io/@rajitdeb)
+
 ## 📫 How to reach me
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imrajit/)
 
