@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on an Ecommerce App.
 - 🌱 I’m currently learning Jetpack Compose and little bit Flutter.
 - 💬 Ask me about Android and Flutter related stuff.
-- 🥅 2023 Goals - Contribute more to Open Source projects.
+- 🥅 2024 Goals - Contribute even more to Open Source projects.
 - ⚡ Fun fact: I love to learn about CyberSecurity, Content Creation, latest developments in Mobile Development world.
 
 ## HactoberFest Badges
